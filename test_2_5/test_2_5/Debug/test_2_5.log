@@ -1,0 +1,24 @@
+﻿生成启动时间为 2022/2/26 22:49:48。
+     1>项目“F:\code\c\test_2_5\test_2_5\test_2_5.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "关机程序.c"
+         关机程序.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\code\c\test_2_5\Debug\test_2_5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\code\c\test_2_5\Debug\test_2_5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\code\c\test_2_5\Debug\test_2_5.lib" /MACHINE:X86 "Debug\100~200的素数.obj"
+         Debug\test.obj
+         "Debug\三个数从大到小输出.obj"
+         "Debug\乘法口诀表.obj"
+         "Debug\关机程序.obj"
+         "Debug\分数求和.obj"
+         "Debug\打印100以内有9的数字.obj"
+         "Debug\打印三的倍数（100以内）.obj"
+         "Debug\打印闰年.obj"
+         "Debug\求最大值.obj"
+         "Debug\求最大公约数.obj"
+         "Debug\猜数字游戏.obj"
+         test_2_5.vcxproj -> F:\code\c\test_2_5\Debug\test_2_5.exe
+     1>已完成生成项目“F:\code\c\test_2_5\test_2_5\test_2_5.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.40
